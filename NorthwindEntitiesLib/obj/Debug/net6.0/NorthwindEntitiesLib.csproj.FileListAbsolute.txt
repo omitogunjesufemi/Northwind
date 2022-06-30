@@ -1,0 +1,12 @@
+C:\Users\HP 840\Documents\Code\PracticalApps\NorthwindEntitiesLib\bin\Debug\net6.0\NorthwindEntitiesLib.deps.json
+C:\Users\HP 840\Documents\Code\PracticalApps\NorthwindEntitiesLib\bin\Debug\net6.0\NorthwindEntitiesLib.dll
+C:\Users\HP 840\Documents\Code\PracticalApps\NorthwindEntitiesLib\bin\Debug\net6.0\NorthwindEntitiesLib.pdb
+C:\Users\HP 840\Documents\Code\PracticalApps\NorthwindEntitiesLib\obj\Debug\net6.0\NorthwindEntitiesLib.csproj.AssemblyReference.cache
+C:\Users\HP 840\Documents\Code\PracticalApps\NorthwindEntitiesLib\obj\Debug\net6.0\NorthwindEntitiesLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP 840\Documents\Code\PracticalApps\NorthwindEntitiesLib\obj\Debug\net6.0\NorthwindEntitiesLib.AssemblyInfoInputs.cache
+C:\Users\HP 840\Documents\Code\PracticalApps\NorthwindEntitiesLib\obj\Debug\net6.0\NorthwindEntitiesLib.AssemblyInfo.cs
+C:\Users\HP 840\Documents\Code\PracticalApps\NorthwindEntitiesLib\obj\Debug\net6.0\NorthwindEntitiesLib.csproj.CoreCompileInputs.cache
+C:\Users\HP 840\Documents\Code\PracticalApps\NorthwindEntitiesLib\obj\Debug\net6.0\NorthwindEntitiesLib.dll
+C:\Users\HP 840\Documents\Code\PracticalApps\NorthwindEntitiesLib\obj\Debug\net6.0\refint\NorthwindEntitiesLib.dll
+C:\Users\HP 840\Documents\Code\PracticalApps\NorthwindEntitiesLib\obj\Debug\net6.0\NorthwindEntitiesLib.pdb
+C:\Users\HP 840\Documents\Code\PracticalApps\NorthwindEntitiesLib\obj\Debug\net6.0\ref\NorthwindEntitiesLib.dll

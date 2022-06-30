@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "U8NGljEPd7yi6G/BzxOOkKPthfs14IKeHNmgLZgMzdY=",
+  "Source": "NorthwindWeb",
+  "BasePath": "_content/NorthwindWeb",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "NorthwindWeb\\wwwroot",
+      "Source": "NorthwindWeb",
+      "ContentRoot": "C:\\Users\\HP 840\\Documents\\Code\\PracticalApps\\NorthwindWeb\\wwwroot\\",
+      "BasePath": "_content/NorthwindWeb",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\HP 840\\Documents\\Code\\PracticalApps\\NorthwindWeb\\wwwroot\\index.html",
+      "SourceId": "NorthwindWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP 840\\Documents\\Code\\PracticalApps\\NorthwindWeb\\wwwroot\\",
+      "BasePath": "_content/NorthwindWeb",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+C:\Users\HP 840\Documents\Code\PracticalApps\NorthwindContextLib\bin\Debug\net6.0\NorthwindContextLib.deps.json
+C:\Users\HP 840\Documents\Code\PracticalApps\NorthwindContextLib\bin\Debug\net6.0\NorthwindContextLib.dll
+C:\Users\HP 840\Documents\Code\PracticalApps\NorthwindContextLib\bin\Debug\net6.0\NorthwindContextLib.pdb
+C:\Users\HP 840\Documents\Code\PracticalApps\NorthwindContextLib\bin\Debug\net6.0\NorthwindEntitiesLib.dll
+C:\Users\HP 840\Documents\Code\PracticalApps\NorthwindContextLib\bin\Debug\net6.0\NorthwindEntitiesLib.pdb
+C:\Users\HP 840\Documents\Code\PracticalApps\NorthwindContextLib\obj\Debug\net6.0\NorthwindContextLib.csproj.AssemblyReference.cache
+C:\Users\HP 840\Documents\Code\PracticalApps\NorthwindContextLib\obj\Debug\net6.0\NorthwindContextLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP 840\Documents\Code\PracticalApps\NorthwindContextLib\obj\Debug\net6.0\NorthwindContextLib.AssemblyInfoInputs.cache
+C:\Users\HP 840\Documents\Code\PracticalApps\NorthwindContextLib\obj\Debug\net6.0\NorthwindContextLib.AssemblyInfo.cs
+C:\Users\HP 840\Documents\Code\PracticalApps\NorthwindContextLib\obj\Debug\net6.0\NorthwindContextLib.csproj.CoreCompileInputs.cache
+C:\Users\HP 840\Documents\Code\PracticalApps\NorthwindContextLib\obj\Debug\net6.0\NorthwindContextLib.csproj.CopyComplete
+C:\Users\HP 840\Documents\Code\PracticalApps\NorthwindContextLib\obj\Debug\net6.0\NorthwindContextLib.dll
+C:\Users\HP 840\Documents\Code\PracticalApps\NorthwindContextLib\obj\Debug\net6.0\refint\NorthwindContextLib.dll
+C:\Users\HP 840\Documents\Code\PracticalApps\NorthwindContextLib\obj\Debug\net6.0\NorthwindContextLib.pdb
+C:\Users\HP 840\Documents\Code\PracticalApps\NorthwindContextLib\obj\Debug\net6.0\ref\NorthwindContextLib.dll
+C:\Users\HP 840\Documents\Code\PracticalApps\NorthwindContextLib\bin\Debug\net6.0\NorthwindContextLib.runtimeconfig.json
+C:\Users\HP 840\Documents\Code\PracticalApps\NorthwindContextLib\obj\Debug\net6.0\NorthwindContextLib.genruntimeconfig.cache
