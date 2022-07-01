@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP 840\\Documents\\Code\\PracticalApps\\NorthwindWeb\\NorthwindWeb.csproj": {}
+    "C:\\Users\\HP 840\\Documents\\Code\\PracticalApps\\NorthwindCustomers\\NorthwindCustomers.csproj": {}
   },
   "projects": {
     "C:\\Users\\HP 840\\Documents\\Code\\PracticalApps\\NorthwindContextLib\\NorthwindContextLib.csproj": {
@@ -133,65 +133,6 @@
         }
       }
     },
-    "C:\\Users\\HP 840\\Documents\\Code\\PracticalApps\\NorthwindEmployees\\NorthwindEmployees.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\HP 840\\Documents\\Code\\PracticalApps\\NorthwindEmployees\\NorthwindEmployees.csproj",
-        "projectName": "NorthwindEmployees",
-        "projectPath": "C:\\Users\\HP 840\\Documents\\Code\\PracticalApps\\NorthwindEmployees\\NorthwindEmployees.csproj",
-        "packagesPath": "C:\\Users\\HP 840\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP 840\\Documents\\Code\\PracticalApps\\NorthwindEmployees\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\HP 840\\AppData\\Roaming\\NuGet\\NuGet.Config"
-        ],
-        "originalTargetFrameworks": [
-          "net6.0"
-        ],
-        "sources": {
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
-            "projectReferences": {
-              "C:\\Users\\HP 840\\Documents\\Code\\PracticalApps\\NorthwindContextLib\\NorthwindContextLib.csproj": {
-                "projectPath": "C:\\Users\\HP 840\\Documents\\Code\\PracticalApps\\NorthwindContextLib\\NorthwindContextLib.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
     "C:\\Users\\HP 840\\Documents\\Code\\PracticalApps\\NorthwindEntitiesLib\\NorthwindEntitiesLib.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -236,71 +177,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Users\\HP 840\\Documents\\Code\\PracticalApps\\NorthwindWeb\\NorthwindWeb.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\HP 840\\Documents\\Code\\PracticalApps\\NorthwindWeb\\NorthwindWeb.csproj",
-        "projectName": "NorthwindWeb",
-        "projectPath": "C:\\Users\\HP 840\\Documents\\Code\\PracticalApps\\NorthwindWeb\\NorthwindWeb.csproj",
-        "packagesPath": "C:\\Users\\HP 840\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP 840\\Documents\\Code\\PracticalApps\\NorthwindWeb\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\HP 840\\AppData\\Roaming\\NuGet\\NuGet.Config"
-        ],
-        "originalTargetFrameworks": [
-          "net6.0"
-        ],
-        "sources": {
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
-            "projectReferences": {
-              "C:\\Users\\HP 840\\Documents\\Code\\PracticalApps\\NorthwindContextLib\\NorthwindContextLib.csproj": {
-                "projectPath": "C:\\Users\\HP 840\\Documents\\Code\\PracticalApps\\NorthwindContextLib\\NorthwindContextLib.csproj"
-              },
-              "C:\\Users\\HP 840\\Documents\\Code\\PracticalApps\\NorthwindCustomers\\NorthwindCustomers.csproj": {
-                "projectPath": "C:\\Users\\HP 840\\Documents\\Code\\PracticalApps\\NorthwindCustomers\\NorthwindCustomers.csproj"
-              },
-              "C:\\Users\\HP 840\\Documents\\Code\\PracticalApps\\NorthwindEmployees\\NorthwindEmployees.csproj": {
-                "projectPath": "C:\\Users\\HP 840\\Documents\\Code\\PracticalApps\\NorthwindEmployees\\NorthwindEmployees.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

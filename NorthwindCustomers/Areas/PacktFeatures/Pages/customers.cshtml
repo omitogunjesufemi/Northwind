@@ -1,0 +1,50 @@
+﻿@page
+@using Packt.Shared;
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@model PacktFeatures.Pages.CustomersPageModel
+
+<div class="row">
+    <h1 class="display-2">Customers</h1>
+</div>
+
+<div class="row">
+    @foreach (var item in Model.Customers)
+    {
+        <table class="table">
+            <thead class="thead">
+                <tr>
+                    <th>
+                        @item.Key
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var cstmr in item)
+                {
+                    <partial name="_Customer" model="cstmr"></partial>
+                }
+            </tbody>
+        </table>
+    }
+
+    @* @foreach (var item in Model.Customers)
+    {
+        <table class="table">
+            <thead class="thead">
+                <tr>
+                    <th>
+                        @item.Key
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var cstmr in item)
+                {
+                    <tr>
+                        <td>@cstmr.ContactName</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    } *@
+</div>

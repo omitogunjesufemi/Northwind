@@ -1,11 +1,22 @@
 {
   "Version": 1,
-  "Hash": "0rPxQ+2N8uryfQ8wHF8N4ZmMUSa8LYgh32aRPV/EyR8=",
+  "Hash": "d0KIkWo2/N3gI6kCjuS3bpWObkMjHrHCBMQUA4W97Ec=",
   "Source": "NorthwindWeb",
   "BasePath": "_content/NorthwindWeb",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\HP 840\\Documents\\Code\\PracticalApps\\NorthwindCustomers\\NorthwindCustomers.csproj",
+      "Version": 2,
+      "Source": "NorthwindCustomers",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier"
+    },
     {
       "Identity": "C:\\Users\\HP 840\\Documents\\Code\\PracticalApps\\NorthwindEmployees\\NorthwindEmployees.csproj",
       "Version": 2,

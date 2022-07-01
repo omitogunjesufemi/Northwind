@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1Pa1OmLd2NYK9UVhz1W0+uZ6yp2FbhiFfciNxQQ9GgdzGn0Fc8sdC7k5OMTOqkiZk7YmMAZfchw41ojdAxQwBw==",
+  "dgSpecHash": "ODyaHmlyuoy+fqzIppeBKSz2LrphkZvTyIWMveBPapQPDSTeljFgPDfogLNJxPoeGeo4ysb10RbLnQfFWDRKcg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP 840\\Documents\\Code\\PracticalApps\\NorthwindWeb\\NorthwindWeb.csproj",
+  "projectFilePath": "C:\\Users\\HP 840\\Documents\\Code\\PracticalApps\\NorthwindCustomers\\NorthwindCustomers.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP 840\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\HP 840\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.6\\microsoft.data.sqlite.core.6.0.6.nupkg.sha512",

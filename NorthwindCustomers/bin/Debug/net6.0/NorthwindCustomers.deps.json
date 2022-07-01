@@ -6,14 +6,12 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "NorthwindWeb/1.0.0": {
+      "NorthwindCustomers/1.0.0": {
         "dependencies": {
-          "NorthwindContextLib": "1.0.0",
-          "NorthwindCustomers": "1.0.0",
-          "NorthwindEmployees": "1.0.0"
+          "NorthwindContextLib": "1.0.0"
         },
         "runtime": {
-          "NorthwindWeb.dll": {}
+          "NorthwindCustomers.dll": {}
         }
       },
       "Humanizer.Core/2.8.26": {
@@ -326,22 +324,6 @@
           "NorthwindContextLib.dll": {}
         }
       },
-      "NorthwindCustomers/1.0.0": {
-        "dependencies": {
-          "NorthwindContextLib": "1.0.0"
-        },
-        "runtime": {
-          "NorthwindCustomers.dll": {}
-        }
-      },
-      "NorthwindEmployees/1.0.0": {
-        "dependencies": {
-          "NorthwindContextLib": "1.0.0"
-        },
-        "runtime": {
-          "NorthwindEmployees.dll": {}
-        }
-      },
       "NorthwindEntitiesLib/1.0.0": {
         "runtime": {
           "NorthwindEntitiesLib.dll": {}
@@ -350,7 +332,7 @@
     }
   },
   "libraries": {
-    "NorthwindWeb/1.0.0": {
+    "NorthwindCustomers/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -573,16 +555,6 @@
       "hashPath": "system.text.json.6.0.0.nupkg.sha512"
     },
     "NorthwindContextLib/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "NorthwindCustomers/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "NorthwindEmployees/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

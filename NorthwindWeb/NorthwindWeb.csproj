@@ -3,6 +3,7 @@
   <ItemGroup>
     <ProjectReference Include="..\NorthwindContextLib\NorthwindContextLib.csproj" />
     <ProjectReference Include="..\NorthwindEmployees\NorthwindEmployees.csproj" />
+    <ProjectReference Include="..\NorthwindCustomers\NorthwindCustomers.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
