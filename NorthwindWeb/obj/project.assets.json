@@ -492,6 +492,22 @@
           "bin/placeholder/NorthwindContextLib.dll": {}
         }
       },
+      "NorthwindEmployees/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "NorthwindContextLib": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/NorthwindEmployees.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NorthwindEmployees.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      },
       "NorthwindEntitiesLib/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -1192,6 +1208,11 @@
       "path": "../NorthwindContextLib/NorthwindContextLib.csproj",
       "msbuildProject": "../NorthwindContextLib/NorthwindContextLib.csproj"
     },
+    "NorthwindEmployees/1.0.0": {
+      "type": "project",
+      "path": "../NorthwindEmployees/NorthwindEmployees.csproj",
+      "msbuildProject": "../NorthwindEmployees/NorthwindEmployees.csproj"
+    },
     "NorthwindEntitiesLib/1.0.0": {
       "type": "project",
       "path": "../NorthwindEntitiesLib/NorthwindEntitiesLib.csproj",
@@ -1200,7 +1221,8 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "NorthwindContextLib >= 1.0.0"
+      "NorthwindContextLib >= 1.0.0",
+      "NorthwindEmployees >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -1230,6 +1252,9 @@
           "projectReferences": {
             "C:\\Users\\HP 840\\Documents\\Code\\PracticalApps\\NorthwindContextLib\\NorthwindContextLib.csproj": {
               "projectPath": "C:\\Users\\HP 840\\Documents\\Code\\PracticalApps\\NorthwindContextLib\\NorthwindContextLib.csproj"
+            },
+            "C:\\Users\\HP 840\\Documents\\Code\\PracticalApps\\NorthwindEmployees\\NorthwindEmployees.csproj": {
+              "projectPath": "C:\\Users\\HP 840\\Documents\\Code\\PracticalApps\\NorthwindEmployees\\NorthwindEmployees.csproj"
             }
           }
         }

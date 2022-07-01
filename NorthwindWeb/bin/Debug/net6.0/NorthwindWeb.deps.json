@@ -8,7 +8,8 @@
     ".NETCoreApp,Version=v6.0": {
       "NorthwindWeb/1.0.0": {
         "dependencies": {
-          "NorthwindContextLib": "1.0.0"
+          "NorthwindContextLib": "1.0.0",
+          "NorthwindEmployees": "1.0.0"
         },
         "runtime": {
           "NorthwindWeb.dll": {}
@@ -324,6 +325,14 @@
           "NorthwindContextLib.dll": {}
         }
       },
+      "NorthwindEmployees/1.0.0": {
+        "dependencies": {
+          "NorthwindContextLib": "1.0.0"
+        },
+        "runtime": {
+          "NorthwindEmployees.dll": {}
+        }
+      },
       "NorthwindEntitiesLib/1.0.0": {
         "runtime": {
           "NorthwindEntitiesLib.dll": {}
@@ -555,6 +564,11 @@
       "hashPath": "system.text.json.6.0.0.nupkg.sha512"
     },
     "NorthwindContextLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NorthwindEmployees/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

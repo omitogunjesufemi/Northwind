@@ -53,3 +53,6 @@ C:\Users\HP 840\Documents\Code\PracticalApps\NorthwindWeb\bin\Debug\net6.0\North
 C:\Users\HP 840\Documents\Code\PracticalApps\NorthwindWeb\obj\Debug\net6.0\NorthwindWeb.csproj.CopyComplete
 C:\Users\HP 840\Documents\Code\PracticalApps\NorthwindWeb\bin\Debug\net6.0\Humanizer.dll
 C:\Users\HP 840\Documents\Code\PracticalApps\NorthwindWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HP 840\Documents\Code\PracticalApps\NorthwindWeb\bin\Debug\net6.0\NorthwindEmployees.dll
+C:\Users\HP 840\Documents\Code\PracticalApps\NorthwindWeb\bin\Debug\net6.0\NorthwindEmployees.pdb
+C:\Users\HP 840\Documents\Code\PracticalApps\NorthwindWeb\obj\Debug\net6.0\NorthwindWeb.MvcApplicationPartsAssemblyInfo.cs
