@@ -62,3 +62,7 @@ C:\Users\HP 840\Documents\Code\PracticalApps\NorthwindMvc\obj\Debug\net6.0\refin
 C:\Users\HP 840\Documents\Code\PracticalApps\NorthwindMvc\obj\Debug\net6.0\NorthwindMvc.pdb
 C:\Users\HP 840\Documents\Code\PracticalApps\NorthwindMvc\obj\Debug\net6.0\NorthwindMvc.genruntimeconfig.cache
 C:\Users\HP 840\Documents\Code\PracticalApps\NorthwindMvc\obj\Debug\net6.0\ref\NorthwindMvc.dll
+C:\Users\HP 840\Documents\Code\PracticalApps\NorthwindMvc\bin\Debug\net6.0\NorthwindContextLib.dll
+C:\Users\HP 840\Documents\Code\PracticalApps\NorthwindMvc\bin\Debug\net6.0\NorthwindEntitiesLib.dll
+C:\Users\HP 840\Documents\Code\PracticalApps\NorthwindMvc\bin\Debug\net6.0\NorthwindContextLib.pdb
+C:\Users\HP 840\Documents\Code\PracticalApps\NorthwindMvc\bin\Debug\net6.0\NorthwindEntitiesLib.pdb

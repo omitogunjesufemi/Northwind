@@ -1,6 +1,9 @@
+using System.Security.AccessControl;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using NorthwindMvc.Data;
+using System.IO;
+using Packt.Shared;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -11,6 +14,10 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlite(connectionString));
 
 builder.Services.AddDatabaseDeveloperPageExceptionFilter();
+
+string databasePath = Path.Combine("..","Northwind.db");
+
+builder.Services.AddDbContext<Northwind>(options => options.UseSqlite($"Data Source={databasePath}"));
 
 builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
     .AddEntityFrameworkStores<ApplicationDbContext>();
