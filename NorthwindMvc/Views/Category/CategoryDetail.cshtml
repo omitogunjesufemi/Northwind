@@ -1,0 +1,26 @@
+@model Packt.Shared.Category
+@{
+    ViewData["Title"] = "Category Detail";
+}
+
+<h2>Category Detail for @Model.CategoryName</h2>
+
+<hr>
+
+<div>
+    <dl class="dlhorizontal">
+        <dt>Category ID</dt>
+        <dd>@Model.CategoryID</dd>
+        <dt>Category Name</dt>
+        <dd>@Model.CategoryName</dd>
+        <dt>Category Description</dt>
+        <dd>@Model.Description</dd>
+        <dt>Products in this Category - @ViewData["ProductCount"] </dt>
+        <dd>
+            @foreach (var item in @Model.Products)
+            {
+                <li>@item.ProductName - @item.UnitPrice.Value.ToString("C")</li>
+            }
+        </dd>
+    </dl>
+</div>
