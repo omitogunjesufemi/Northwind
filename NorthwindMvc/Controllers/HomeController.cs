@@ -54,4 +54,22 @@ public class HomeController : Controller
     {
         return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
     }
+
+    public IActionResult ModelBinding()
+    {
+        return View();
+    }
+
+    [HttpPost]
+    public IActionResult ModelBinding(Thing thing)
+    {
+      var model = new HomeModelBindingViewModel
+      {
+        Thing = thing,
+        HasErrors = !ModelState.IsValid,
+        ValidationErrors = ModelState.Values.SelectMany(state => state.Errors).Select(error => error.ErrorMessage)
+      };
+
+      return View(model);
+    }
 }
