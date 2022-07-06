@@ -61,7 +61,11 @@
         <h1>Northwind</h1>
         <p class="lead">
             We have had @Model.VisitorCount visitors this month.
-        </p>
+        </p>        
+        <form asp-action="ProductsThatCostMoreThan" method="get">
+            <input placeholder="Enter a product price" name="price">
+            <input type="submit" >
+        </form>
         <h2>Products</h2>
         <div id="newspaper">
             <ul>
